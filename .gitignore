@@ -1,4 +1,6 @@
 target/
-idea/
-*.iml
-github-es4j-es4j-github-com.iml
+
+# Intellij IDEA Files #
+.idea/
+*.iml
+
